@@ -36,5 +36,5 @@ public class AdicaoProdutos extends AppCompatActivity {
         item.setQuantidade(etQuantidade.getText());
         this.finish();
 
-    }
+}
 }
