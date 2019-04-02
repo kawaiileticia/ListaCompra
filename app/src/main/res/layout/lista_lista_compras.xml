@@ -24,7 +24,7 @@
                             android:background="#FFE4B5"
                             android:gravity="center_vertical"
                             android:padding="10dp"
-                            android:text="Lista de Compras"
+                            android:text="@string/txtListaListaCompras"
                             android:textAppearance="?android:attr/textAppearanceSmall"
                             android:textColor="#708090" />
 
@@ -36,7 +36,7 @@
                             android:background="#FFE4B5"
                             android:gravity="center_vertical"
                             android:padding="10dp"
-                            android:text="Itens"
+                            android:text="@string/txtItensListaListaCompras"
                             android:textAppearance="?android:attr/textAppearanceSmall"
                             android:textColor="#708090" />
 

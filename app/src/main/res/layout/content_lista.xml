@@ -23,7 +23,7 @@
       android:background="#FFE4B5"
       android:gravity="center_vertical"
       android:padding="10dp"
-      android:text="Produto"
+      android:text="@string/txtProdutooContentList"
       android:textAppearance="?android:attr/textAppearanceSmall"
       android:textColor="#708090" />
 
@@ -35,7 +35,7 @@
       android:background="#FFE4B5"
       android:gravity="center_vertical"
       android:padding="10dp"
-      android:text="Qtd"
+      android:text="@string/txtQtdContentList"
       android:textAppearance="?android:attr/textAppearanceSmall"
       android:textColor="#708090" />
 
@@ -47,7 +47,7 @@
       android:background="#FFE4B5"
       android:gravity="center_vertical"
       android:padding="10dp"
-      android:text="Preço"
+      android:text="@string/txtPrecoContentList"
       android:textAppearance="?android:attr/textAppearanceSmall"
       android:textColor="#708090" />
 
@@ -71,7 +71,7 @@
       android:background="#FFE4B5"
       android:gravity="center_vertical"
       android:padding="10dp"
-      android:text="Total"
+      android:text="@string/txtTotalContentList"
       android:textAppearance="?android:attr/textAppearanceSmall"
       android:textColor="#708090" />
 
@@ -83,7 +83,7 @@
       android:background="#FFE4B5"
       android:gravity="center_vertical"
       android:padding="10dp"
-      android:text="0.0"
+      android:text="@string/txtZeroContentList"
       android:textAppearance="?android:attr/textAppearanceSmall"
       android:textColor="#708090" />
 
@@ -97,7 +97,7 @@
       android:maxLines="1"
       android:padding="10dp"
       android:singleLine="true"
-      android:text="0.0"
+      android:text="@string/txtZeroContentList"
       android:textAppearance="?android:attr/textAppearanceSmall"
       android:textColor="#708090" />
 

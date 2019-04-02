@@ -3,4 +3,19 @@
     <string name="action_settings">Settings</string>
     <string name="title_activity_lista_compra">ListaCompra</string>
     <string name="title_activity_main">MainActivity</string>
+
+    <string name = "txtListaListaCompras">Lista de Compras</string>
+    <string name = "txtItensListaListaCompras">Itens</string>
+    <string name = "txtProdutooContentList">Produto</string>
+    <string name = "txtQtdContentList">Qtd</string>
+    <string name = "txtPrecoContentList">Preço</string>
+    <string name = "txtTotalContentList">Total</string>
+    <string name = "txtZeroContentList">0.0</string>
+    <string name = "txtProdutoAdicaoProduto">Produto</string>
+    <string name = "txtQuantidadeAdicaoProduto">Quantidade</string>
+    <string name = "txtPrecoAdicaoProduto">Preço</string>
+    <string name = "edtProdutoAdicaoProduto">Informe o produto</string>
+    <string name = "edtQuantidadeAdicaoProduto">Digite aqui a quantidade</string>
+    <string name = "edtPrecoAdicaoProduto">Informe o preço do produto</string>
+    <string name = "botaoSalvar">Salvar</string>
 </resources>
