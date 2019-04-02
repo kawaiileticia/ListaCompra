@@ -3,6 +3,7 @@ package com.asasfracas.ListaCompras;
 public class ListaCompra {
 
     private String novaLista;
+    private int idLista;
 
     @Override
     public String toString() {
@@ -16,5 +17,13 @@ public class ListaCompra {
 
     public void setNovaLista(String novaLista) {
         this.novaLista = novaLista;
+    }
+
+    public int getId() {
+        return idLista;
+    }
+
+    public void setId(int id) {
+        this.idLista = id;
     }
 }
