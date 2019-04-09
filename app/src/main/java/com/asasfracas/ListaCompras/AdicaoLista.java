@@ -1,5 +1,6 @@
 package com.asasfracas.ListaCompras;
 
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -19,10 +20,12 @@ public class AdicaoLista extends AppCompatActivity {
         etnovaLista= (EditText) findViewById(R.id.etnovaLista);
         salvarLista = (Button) findViewById(R.id.salvarLista);
 
+        //envia para a tela de listas
         salvarLista.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 salvar();
+
             }
         });
     }
